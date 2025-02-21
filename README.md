@@ -38,7 +38,9 @@ No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúra
 
 # Construido con 🛠️
 HTML - Para la estructura y diseño de la página.
+
 CSS - Para los estilos visuales.
+
 JavaScript - Para la lógica de la aplicación (agregar nombres, realizar el sorteo, etc.)
 
 
